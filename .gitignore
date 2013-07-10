@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse workspace files/folders
+.classpath
+.project
+.settings
+.idea
+target
+bin
+out
